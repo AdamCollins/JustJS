@@ -6,7 +6,7 @@
 
 JustJS is the world's lightest JavaScript library, providing no more functionality than JavaScript already offers, as JustJS is **just JavaScript**. Our team decided not to improve JavaScript's ugly syntax, poor performance or, its overall low usability in large scale applications in the name of not giving front-end developers another "goddamn JavaScript library learn".
 
-## Compatability
+## Compatibility
 * AngularJS
 * ReactJS
 * JQuery.js
