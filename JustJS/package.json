@@ -1,0 +1,12 @@
+{
+	"name":"JustJS",
+	"Version":"1.0.0",
+	"description":"A lightweight library that allows you to get back to JavaScript's basics. In fact, it is the worlds lightest JavaScript library since it is JUST JavaScript.",
+	"author":"Adam Collins",
+	"license":"ISC",
+	"keywords":[
+		"JavaScript",
+		"JustJS",
+		"satire"
+	]
+}
