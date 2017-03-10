@@ -4,7 +4,7 @@
 
 [![Build Status][travis-image]][travis-url]
 
-JustJS is the world's lightest JavaScript library, providing nothing more functionality than JavaScript already offers, as JustJS is **just JavaScript**. Our team decided not to improve JavaScript's ugly syntax, poor performance or, its overall low usability in large scale applications in the name of not giving front-end developers another "goddamn JavaScript library learn".
+JustJS is the world's lightest JavaScript library, providing no more functionality than JavaScript already offers, as JustJS is **just JavaScript**. Our team decided not to improve JavaScript's ugly syntax, poor performance or, its overall low usability in large scale applications in the name of not giving front-end developers another "goddamn JavaScript library learn".
 
 ## Compatability
 * AngularJS
@@ -14,7 +14,7 @@ JustJS is the world's lightest JavaScript library, providing nothing more functi
 * Underscore.js
 * Backbone.js
 * Ember.js
-* LitterlyAnything.js
+* LiterallyAnything.js
 
 ## Setup
 Place the JustJS folder into your sites home directory.
@@ -23,10 +23,7 @@ Add the following line into the head of your HTML document.
 <script type="text/javascript" src="JustJS/just.js"></script>
 ```
 Voilà! You have are now ready to use JustJS.
-To begin, use JavaScript as you would normally as JustJS adds absolutley **no** functionality!
-Windows:
-
-
+To begin, use JavaScript as you would normally as JustJS adds absolutely **NO** functionality! 
 ## Usage example
 
 Here is an example of how to run a simple `Hello World!` program.
@@ -51,10 +48,7 @@ Here is an example of how to run a simple `Hello World!` program.
 ```
 
 For a more indepth reference on how to use JustJS checkout a comprehensive guide [here](https://www.w3schools.com/js/default.asp).
-
-
-
-
+ ##License
 Distributed under the ISC license.
 
 
