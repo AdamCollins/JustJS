@@ -1,9 +1,8 @@
 # JustJS
-![](logo.png|width=420)
+<img src="logo.png" alt="alt text" width="420px">
 > A lightweight library that allows you to get back to JavaScript's basics by just being JavaScript.
 
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 JustJS is the world's lightest JavaScript library, providing nothing more functionality than JavaScript already offers, as JustJS is **just JavaScript**. Our team decided not to improve JavaScript's ugly syntax, poor performance or, its overall low usability in large scale applications in the name of not giving front-end developers another "goddamn JavaScript library learn".
 
