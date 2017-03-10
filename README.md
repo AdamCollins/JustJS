@@ -48,7 +48,8 @@ Here is an example of how to run a simple `Hello World!` program.
 ```
 
 For a more indepth reference on how to use JustJS checkout a comprehensive guide [here](https://www.w3schools.com/js/default.asp).
- ##License
+
+## License
 Distributed under the ISC license.
 
 
