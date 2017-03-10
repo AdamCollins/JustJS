@@ -1,6 +1,6 @@
 # JustJS
+![](logo.png|width=420)
 > A lightweight library that allows you to get back to JavaScript's basics by just being JavaScript.
-![](logo.png)
 
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
