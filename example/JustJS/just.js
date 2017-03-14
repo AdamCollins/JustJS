@@ -1,4 +1,4 @@
-init();
-function init(){
+initJustJS();
+function initJustJS(){
 	console.log("Powered by JustJS");
 }
