@@ -3,6 +3,7 @@
 > A lightweight library that allows you to get back to JavaScript's basics by just being JavaScript.
 
 [![Build Status][travis-image]][travis-url]
+[![npm version](https://badge.fury.io/js/just.js.svg)](https://badge.fury.io/js/just.js)
 
 JustJS is the world's lightest JavaScript library, providing no more functionality than JavaScript already offers, as JustJS is **just JavaScript**. Our team decided not to improve JavaScript's ugly syntax, poor performance or, its overall low usability in large scale applications in the name of not giving front-end developers another "goddamn JavaScript library learn".
 
