@@ -17,6 +17,10 @@ JustJS is the world's lightest JavaScript library, providing no more functionali
 * LiterallyAnything.js
 
 ## Setup
+### npm install
+```
+npm install just.js
+```
 Place the JustJS folder into your sites home directory.
 Add the following line into the head of your HTML document.
 ```html
