@@ -1,6 +1,6 @@
 # JustJS
 <img src="logo.png" alt="alt text" width="420px">
-> A lightweight library that allows you to get back to JavaScript's basics by just being JavaScript.
+A lightweight library that allows you to get back to JavaScript's basics by just being JavaScript.
 
 [![Build Status][travis-image]][travis-url]
 [![npm version](https://badge.fury.io/js/just.js.svg)](https://badge.fury.io/js/just.js)
