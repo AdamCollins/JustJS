@@ -10,6 +10,7 @@ JustJS is the world's lightest JavaScript library, providing no more functionali
 ## Compatibility
 * AngularJS
 * ReactJS
+* Node.js
 * JQuery.js
 * P5.JS
 * Underscore.js
