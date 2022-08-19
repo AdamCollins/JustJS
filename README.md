@@ -34,7 +34,8 @@ Add the following line into the head of your HTML document.
 <script type="text/javascript" src="JustJS/just.js"></script>
 ```
 Voilà! You have are now ready to use JustJS.
-To begin, use JavaScript as you would normally as JustJS adds absolutely **NO** functionality! 
+To begin, use JavaScript as you would normally as JustJS adds absolutely **NO** functionality! 
+[Learn More](https://www.scaler.com/topics/javascript/)
 ## Usage example
 
 Here is an example of how to run a simple `Hello World!` program.
